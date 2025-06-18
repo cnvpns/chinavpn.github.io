@@ -2,7 +2,9 @@
 
 <p align="center">最近更新：2025年6月18日</p>
 
-近年来，由于GFW（防火长城）的不断更新和升级，导致现如今能在中国长期稳定使用的VPN已经很少了。网络上有很多VPN推荐网站在没有实际测试的情况下就随意推荐VPN软件，它们的VPN排行榜也是常年不变，几乎没有参考价值。为了帮助大家避坑，本文基于VPN中国实测之后，为大家推荐目前市面上最好用的VPN软件。如果你不想浪费时间反复试错，只想快速获取一款好用的VPN软件，请直接选择下面这两款最佳中国VPN软件。
+近年来，由于GFW（防火长城）的不断更新和升级，导致现如今能在中国长期稳定使用的VPN已经很少了。网络上有很多VPN推荐网站在没有实际测试的情况下就随意推荐VPN软件，它们的VPN排行榜也是常年不变，几乎没有参考价值。为了帮助大家避坑，本文基于VPN中国实测之后，为大家推荐目前市面上最好用的VPN软件。
+
+如果你不想浪费时间反复试错，只想快速获取一款好用的VPN软件，请直接选择下面这两款最佳中国VPN软件。
 
 <table>
   <thead>
@@ -23,26 +25,26 @@
       <td style="font-size: 14px;">非常安全</td>
       <td style="font-size: 14px;">105个国家3000台</td>
       <td style="font-size: 14px;">2年套餐：$4.99/月</td>
-      <td style="font-size: 14px;">速度非常快，免费赠送6个月，30天退款保证</td>
+      <td style="font-size: 14px;">速度最快且30天免费</td>
       <td style="font-size: 14px; color: red;">9.9/10</td>
     </tr>
     <tr>
-      <td style="background-color: lightgrey; font-size: 16px;"><a href="https://bit.ly/pe-vpn">PureVPN</a></td>
-      <td style="font-size: 14px;">稳定</td>
+      <td style="background-color: lightgrey; font-size: 16px;"><a href="<a href="https://bit.ly/stg-vpn">">StrongVPN</a></td>
+      <td style="font-size: 14px;">比较稳定</td>
       <td style="font-size: 14px;">比较安全</td>
-      <td style="font-size: 14px;">70个国家6500台</td>
-      <td style="font-size: 14px;">2年套餐：$2.11/月</td>
-      <td style="font-size: 14px;">提供独立IP地址</td>
+      <td style="font-size: 14px;">35个国家950台</td>
+      <td style="font-size: 14px;">1年套餐：$3.97/月</td>
+      <td style="font-size: 14px;">支持支付宝付款</td>
       <td style="font-size: 14px; color: red;">9.5/10</td>
     </tr>
     <tr>
-      <td style="background-color: lightgrey; font-size: 16px;"><a href="https://bit.ly/surf-vpn">Surfshark</a></td>
-      <td style="font-size: 14px;">一般</td>
-      <td style="font-size: 14px;">比较安全</td>
-      <td style="font-size: 14px;">65个国家3200台</td>
-      <td style="font-size: 14px;">2年套餐：$2.49/月</td>
-      <td style="font-size: 14px;">不限制设备数</td>
-      <td style="font-size: 14px; color: red;">8.0/10</td>
+      <td style="background-color: lightgrey; font-size: 16px;"><a href="<a href="https://bit.ly/pe-vpn">">PureVPN</a></td>
+      <td style="font-size: 14px;">马马虎虎</td>
+      <td style="font-size: 14px;">非常安全</td>
+      <td style="font-size: 14px;">70个国家6500台</td>
+      <td style="font-size: 14px;">2年套餐：$2.11/月</td>
+      <td style="font-size: 14px;">安全且价格便宜</td>
+      <td style="font-size: 14px; color: red;">9.0/10</td>
     </tr>
   </tbody>
 </table>
