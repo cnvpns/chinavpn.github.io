@@ -20,31 +20,31 @@
   </thead>
   <tbody>
     <tr>
-      <td style="background-color: lightgrey; font-size: 15px;"><a href="https://bit.ly/eps-vpn">ExpressVPN</a></td>
-      <td style="font-size: 13px;">非常稳定</td>
-      <td style="font-size: 13px;">非常安全</td>
-      <td style="font-size: 13px;">105个国家3000台</td>
-      <td style="font-size: 13px;">2年套餐：$4.99/月</td>
-      <td style="font-size: 13px;">速度最快且30天免费</td>
-      <td style="font-size: 13px; color: red;">9.9/10</td>
+      <td style="background-color: lightgrey; font-size: 12px;"><a href="https://bit.ly/eps-vpn">ExpressVPN</a></td>
+      <td style="font-size: 12px;">非常稳定</td>
+      <td style="font-size: 12px;">非常安全</td>
+      <td style="font-size: 12px;">105个国家3000台</td>
+      <td style="font-size: 12px;">2年套餐：$4.99/月</td>
+      <td style="font-size: 12px;">速度最快且30天免费</td>
+      <td style="font-size: 12px; color: red;">9.9/10</td>
     </tr>
     <tr>
-      <td style="background-color: lightgrey; font-size: 15px;"><a href="https://bit.ly/stg-vpn">StrongVPN</a></td>
-      <td style="font-size: 13px;">比较稳定</td>
-      <td style="font-size: 13px;">比较安全</td>
-      <td style="font-size: 13px;">35个国家950台</td>
-      <td style="font-size: 13px;">1年套餐：$3.97/月</td>
-      <td style="font-size: 13px;">支持支付宝付款</td>
-      <td style="font-size: 13px; color: red;">9.5/10</td>
+      <td style="background-color: lightgrey; font-size: 12px;"><a href="https://bit.ly/stg-vpn">StrongVPN</a></td>
+      <td style="font-size: 12px;">比较稳定</td>
+      <td style="font-size: 12px;">比较安全</td>
+      <td style="font-size: 12px;">35个国家950台</td>
+      <td style="font-size: 12px;">1年套餐：$3.97/月</td>
+      <td style="font-size: 12px;">支持支付宝付款</td>
+      <td style="font-size: 12px; color: red;">9.5/10</td>
     </tr>
     <tr>
-      <td style="background-color: lightgrey; font-size: 15px;"><a href="https://bit.ly/pe-vpn">PureVPN</a></td>
-      <td style="font-size: 13px;">马马虎虎</td>
-      <td style="font-size: 13px;">非常安全</td>
-      <td style="font-size: 13px;">70个国家6500台</td>
-      <td style="font-size: 13px;">2年套餐：$2.11/月</td>
-      <td style="font-size: 13px;">安全且价格便宜</td>
-      <td style="font-size: 13px; color: red;">9.0/10</td>
+      <td style="background-color: lightgrey; font-size: 12px;"><a href="https://bit.ly/pe-vpn">PureVPN</a></td>
+      <td style="font-size: 12px;">马马虎虎</td>
+      <td style="font-size: 12px;">非常安全</td>
+      <td style="font-size: 12px;">70个国家6500台</td>
+      <td style="font-size: 12px;">2年套餐：$2.11/月</td>
+      <td style="font-size: 12px;">安全且价格便宜</td>
+      <td style="font-size: 12px; color: red;">9.0/10</td>
     </tr>
   </tbody>
 </table>
