@@ -24,7 +24,7 @@
       <td style="font-size: 12px;">非常稳定</td>
       <td style="font-size: 12px;">非常安全</td>
       <td style="font-size: 12px;">105个国家3000台</td>
-      <td style="font-size: 12px;">2年套餐：$4.99/月</td>
+      <td style="font-size: 12px;">每月4.99美金</td>
       <td style="font-size: 12px;">速度最快且30天免费</td>
       <td style="font-size: 12px; color: red;">9.9/10</td>
     </tr>
@@ -33,7 +33,7 @@
       <td style="font-size: 12px;">比较稳定</td>
       <td style="font-size: 12px;">比较安全</td>
       <td style="font-size: 12px;">35个国家950台</td>
-      <td style="font-size: 12px;">1年套餐：$3.97/月</td>
+      <td style="font-size: 12px;">每月3.97美金</td>
       <td style="font-size: 12px;">支持支付宝付款</td>
       <td style="font-size: 12px; color: red;">9.5/10</td>
     </tr>
@@ -42,7 +42,7 @@
       <td style="font-size: 12px;">马马虎虎</td>
       <td style="font-size: 12px;">非常安全</td>
       <td style="font-size: 12px;">70个国家6500台</td>
-      <td style="font-size: 12px;">2年套餐：$2.11/月</td>
+      <td style="font-size: 12px;">每月2.11美金</td>
       <td style="font-size: 12px;">安全且价格便宜</td>
       <td style="font-size: 12px; color: red;">9.0/10</td>
     </tr>
