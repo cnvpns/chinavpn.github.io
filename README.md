@@ -29,7 +29,7 @@
       <td style="font-size: 14px; color: red;">9.9/10</td>
     </tr>
     <tr>
-      <td style="background-color: lightgrey; font-size: 16px;"><a href="<a href="https://bit.ly/stg-vpn">">StrongVPN</a></td>
+      <td style="background-color: lightgrey; font-size: 16px;"><a href="https://bit.ly/stg-vpn">StrongVPN</a></td>
       <td style="font-size: 14px;">比较稳定</td>
       <td style="font-size: 14px;">比较安全</td>
       <td style="font-size: 14px;">35个国家950台</td>
@@ -38,7 +38,7 @@
       <td style="font-size: 14px; color: red;">9.5/10</td>
     </tr>
     <tr>
-      <td style="background-color: lightgrey; font-size: 16px;"><a href="<a href="https://bit.ly/pe-vpn">">PureVPN</a></td>
+      <td style="background-color: lightgrey; font-size: 16px;"><a href="https://bit.ly/pe-vpn">PureVPN</a></td>
       <td style="font-size: 14px;">马马虎虎</td>
       <td style="font-size: 14px;">非常安全</td>
       <td style="font-size: 14px;">70个国家6500台</td>
