@@ -9,13 +9,13 @@
 <table>
   <thead>
     <tr>
-      <th style="background-color: lightgrey; font-size: 15px;">VPN推荐</th>
-      <th style="background-color: lightgrey; font-size: 15px;">翻墙能力</th>
-      <th style="background-color: lightgrey; font-size: 15px;">安全性</th>
-      <th style="background-color: lightgrey; font-size: 15px;">服务器数量</th>
-      <th style="background-color: lightgrey; font-size: 15px;">价格</th>
-      <th style="background-color: lightgrey; font-size: 15px;">特色</th>
-      <th style="background-color: lightgrey; font-size: 15px;">综合评分</th>
+      <th style="background-color: lightgrey; font-size: 12px;">VPN推荐</th>
+      <th style="background-color: lightgrey; font-size: 12px;">翻墙能力</th>
+      <th style="background-color: lightgrey; font-size: 12px;">安全性</th>
+      <th style="background-color: lightgrey; font-size: 12px;">服务器数量</th>
+      <th style="background-color: lightgrey; font-size: 12px;">价格</th>
+      <th style="background-color: lightgrey; font-size: 12px;">特色</th>
+      <th style="background-color: lightgrey; font-size: 12px;">综合评分</th>
     </tr>
   </thead>
   <tbody>
