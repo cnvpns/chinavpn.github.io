@@ -514,3 +514,4 @@ VPN最大的特点是实现全局加密。只要连接VPN，设备上的所有�
 * <a href="https://github.com/cnvpns/cnvpns.github.io">科学上网教程</a>：2025年最好用的翻墙软件和翻墙VPN推荐！
 * <a href="https://github.com/cnvpns/pcvpn.github.io">电脑翻墙教程</a>：2025年中国最好用的PC端电脑VPN推荐！
 * <a href="https://github.com/cnvpns/android.github.io">安卓翻墙教程</a>：2025年最好用的安卓机场和安卓VPN推荐！
+* <a href="https://github.com/cnvpns/freevpn.github.io">免费VPN推荐</a>：2025年最新免费VPN推荐（中国可用）！
