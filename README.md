@@ -1,6 +1,6 @@
 # <p align="center">中国VPN推荐：2025年国内最好用的VPN排行！</p>
 
-<p align="center">最近更新：2025年8月11日</p>
+<p align="center">最近更新：2025年9月16日</p>
 
 近年来，由于GFW（防火长城）的不断更新和升级，导致现如今能在中国长期稳定使用的VPN已经很少了。网络上有很多VPN推荐网站在没有实际测试的情况下就随意推荐VPN软件，它们的VPN排行榜也是常年不变，几乎没有参考价值。为了帮助大家避坑，本文基于VPN中国实测之后，为大家推荐目前市面上最好用的VPN软件。如果你没有太多时间来阅读完本文，只想快速获取一款好用的VPN软件，请直接选择下面这两款最佳中国VPN软件。
 
@@ -516,3 +516,4 @@ VPN最大的特点是实现全局加密。只要连接VPN，设备上的所有�
 * <a href="https://github.com/cnvpns/android.github.io">安卓翻墙教程</a>：2025年最好用的安卓机场和安卓VPN推荐！
 * <a href="https://github.com/cnvpns/freevpn.github.io">免费VPN推荐</a>：2025年最新免费VPN推荐（中国可用）！
 * <a href="https://github.com/cnvpns/intochina.github.io">翻墙回国VPN</a>：2025年最好用的翻墙回国VPN推荐！
+* <a href="https://github.com/cnvpns/expressvpn.github.io">ExpressVPN评测</a>：ExpressVPN怎么样？ExpressVPN国内还能用吗？
